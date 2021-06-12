@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\BusinessRules.Console\bin\Debug\BusinessRules.Console.exe.config
+C:\Users\Admin\source\repos\BusinessRules.Console\bin\Debug\BusinessRules.Console.exe
+C:\Users\Admin\source\repos\BusinessRules.Console\bin\Debug\BusinessRules.Console.pdb
+C:\Users\Admin\source\repos\BusinessRules.Console\bin\Debug\BusinessRules.Core.dll
+C:\Users\Admin\source\repos\BusinessRules.Console\bin\Debug\BusinessRules.Core.pdb
+C:\Users\Admin\source\repos\BusinessRules.Console\obj\Debug\BusinessRules.Console.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BusinessRules.Console\obj\Debug\BusinessRules.Console.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BusinessRules.Console\obj\Debug\BusinessRules.Console.csproj.CopyComplete
+C:\Users\Admin\source\repos\BusinessRules.Console\obj\Debug\BusinessRules.Console.exe
+C:\Users\Admin\source\repos\BusinessRules.Console\obj\Debug\BusinessRules.Console.pdb

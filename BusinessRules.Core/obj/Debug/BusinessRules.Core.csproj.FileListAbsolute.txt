@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\BusinessRules.Core\bin\Debug\BusinessRules.Core.dll
+C:\Users\Admin\source\repos\BusinessRules.Core\bin\Debug\BusinessRules.Core.pdb
+C:\Users\Admin\source\repos\BusinessRules.Core\obj\Debug\BusinessRules.Core.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BusinessRules.Core\obj\Debug\BusinessRules.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BusinessRules.Core\obj\Debug\BusinessRules.Core.dll
+C:\Users\Admin\source\repos\BusinessRules.Core\obj\Debug\BusinessRules.Core.pdb
